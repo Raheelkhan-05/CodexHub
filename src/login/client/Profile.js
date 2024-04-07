@@ -165,15 +165,6 @@ const Profile = () => {
         </div>
       </div>
     </div>
-    <div className="py-3">
-    {/* ... (existing code) ... */}
-    <div className="wrapper mx-auto" style={{ marginTop: '130px', textAlign: 'center' }}>
-      {/* ... (existing code) ... */}
-      <div style={{ marginTop: '20px' }}>
-        
-      </div>
-    </div>
-  </div>
   </>
   );
 };
