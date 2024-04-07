@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "https://raheelkhan-05.github.io/CodexHub",
   "private": true,
   "license": "ISC",
   "dependencies": {
@@ -36,7 +37,7 @@
   "scripts": {
     "start": "concurrently \"npm run start:server\" \"npm run start:client\"",
     "predeploy" : "npm run build",
-"deploy" : "gh-pages -d build",
+    "deploy" : "gh-pages -d build",
     "start:server": "node Backend/api.js",
     "start:client": "react-scripts start",
     "build": "react-scripts build",

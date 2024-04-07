@@ -6,6 +6,7 @@ import Home from "./components/Home";
 import React, { useState , useEffect} from "react";
 import NewsF from "./components/NewsFetching";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+// import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import { Redirect } from "react-router-dom";
 import Profile from "./login/client/Profile";
 import Leaderboard from "./login/client/Leaderboard";
