@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.08094e13.css",
-    "main.js": "/static/js/main.eb60a9b3.js",
-    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
-    "static/media/v4.mp4": "/static/media/v4.2d44ba7bc2696ea417f9.mp4",
-    "static/media/video-2.mp4": "/static/media/video-2.39e6c79bffb375ae929a.mp4",
-    "static/media/background.gif": "/static/media/background.904ef68ad367dab507c2.gif",
-    "static/media/v1.mp4": "/static/media/v1.8058991e4c4091df4006.mp4",
-    "static/media/practice.png": "/static/media/practice.26c4bdda994e6af0d6bd.png",
-    "static/media/contest.jpg": "/static/media/contest.16054545784a89b014a5.jpg",
-    "static/media/cc.png": "/static/media/cc.9925836e03608fed4bc0.png",
-    "static/media/Logo.jpeg": "/static/media/Logo.9dcf5968830868227637.jpeg",
-    "static/media/lc.png": "/static/media/lc.c79f333b12595d3eec8f.png",
-    "static/media/news.webp": "/static/media/news.480e60df20686384501c.webp",
-    "static/media/cclogo.jpg": "/static/media/cclogo.cb20c19292ab07021a71.jpg",
-    "static/media/cf.webp": "/static/media/cf.a08f4b4671335f76dce0.webp",
-    "index.html": "/index.html",
-    "main.08094e13.css.map": "/static/css/main.08094e13.css.map",
-    "main.eb60a9b3.js.map": "/static/js/main.eb60a9b3.js.map",
-    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/CodexHub/static/css/main.b3f8b234.css",
+    "main.js": "/CodexHub/static/js/main.881b28a7.js",
+    "static/js/787.d4aba7ab.chunk.js": "/CodexHub/static/js/787.d4aba7ab.chunk.js",
+    "static/media/v4.mp4": "/CodexHub/static/media/v4.2d44ba7bc2696ea417f9.mp4",
+    "static/media/video-2.mp4": "/CodexHub/static/media/video-2.39e6c79bffb375ae929a.mp4",
+    "static/media/background.gif": "/CodexHub/static/media/background.904ef68ad367dab507c2.gif",
+    "static/media/v1.mp4": "/CodexHub/static/media/v1.8058991e4c4091df4006.mp4",
+    "static/media/practice.png": "/CodexHub/static/media/practice.26c4bdda994e6af0d6bd.png",
+    "static/media/contest.jpg": "/CodexHub/static/media/contest.16054545784a89b014a5.jpg",
+    "static/media/cc.png": "/CodexHub/static/media/cc.9925836e03608fed4bc0.png",
+    "static/media/Logo.jpeg": "/CodexHub/static/media/Logo.9dcf5968830868227637.jpeg",
+    "static/media/lc.png": "/CodexHub/static/media/lc.c79f333b12595d3eec8f.png",
+    "static/media/news.webp": "/CodexHub/static/media/news.480e60df20686384501c.webp",
+    "static/media/cclogo.jpg": "/CodexHub/static/media/cclogo.cb20c19292ab07021a71.jpg",
+    "static/media/cf.webp": "/CodexHub/static/media/cf.a08f4b4671335f76dce0.webp",
+    "index.html": "/CodexHub/index.html",
+    "main.b3f8b234.css.map": "/CodexHub/static/css/main.b3f8b234.css.map",
+    "main.881b28a7.js.map": "/CodexHub/static/js/main.881b28a7.js.map",
+    "787.d4aba7ab.chunk.js.map": "/CodexHub/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08094e13.css",
-    "static/js/main.eb60a9b3.js"
+    "static/css/main.b3f8b234.css",
+    "static/js/main.881b28a7.js"
   ]
 }
