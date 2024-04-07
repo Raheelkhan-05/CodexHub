@@ -1,7 +1,11 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+<<<<<<< HEAD
   "homepage": "https://raheelkhan-05.github.io/CodexHub",
+=======
+  "homepage":"https://raheelkhan-05.github.io/CodexHub",
+>>>>>>> e6f2c4a6edd042f0cc608581820f4dfe3e2b4404
   "private": true,
   "license": "ISC",
   "dependencies": {
